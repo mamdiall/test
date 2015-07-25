@@ -1,0 +1,46 @@
+EXTINF:-1,TF1 HD
+http://stream4.latvdefrance.com/demo/tf1.m3u8
+#EXTINF:-1,HD1
+http://stream4.latvdefrance.com/demo/hd1.m3u8
+#EXTINF:-1,FRANCE2
+http://stream04.latvdefrance.com/demo/france2.m3u8
+#EXTINF:-1,FRANCE3
+http://stream4.latvdefrance.com/demo/france3.m3u8
+#EXTINF:-1,FRANCE4
+http://stream4.latvdefrance.com/demo/france4.m3u8
+#EXTINF:-1,CANAL+
+http://stream4.latvdefrance.com/demo/canalplus.m3u8
+#EXTINF:-1,CANAL+ SPORT
+http://stream4.latvdefrance.com/demo/canalsport.m3u8
+
+canalcinema
+http://stream4.latvdefrance.com/demo/canalcinema.m3u8
+
+#EXTINF:-1,d8
+http://stream4.latvdefrance.com/demo/d8.m3u8
+#EXTINF:-1,france5
+http://stream1.latvdefrance.com/demo/france4.m3u8
+#EXTINF:-1,ARTE
+http://stream4.latvdefrance.com/demo/arte.m3u8
+#EXTINF:-1,M6
+http://stream4.latvdefrance.com/demo/m6.m3u8
+#EXTINF:-1,6TER
+http://stream4.latvdefrance.com/demo/6ter.m3u8
+#EXTINF:-1,W9
+http://stream4.latvdefrance.com/demo/w9.m3u8
+#EXTINF:-1,TMC
+http://stream4.latvdefrance.com/demo/tmc.m3u8
+#EXTINF:-1,NRJ12
+http://stream4.latvdefrance.com/demo/nrj12.m3u8
+#EXTINF:-1,D17
+http://stream4.latvdefrance.com/demo/d17.m3u8
+#EXTINF:-1,I TELE
+http://stream4.latvdefrance.com/demo/itele.m3u8
+#EXTINF:-1,GULLI
+http://stream4.latvdefrance.com/demo/gulli.m3u8
+#EXTINF:-1,FRANCEO
+http://stream4.latvdefrance.com/demo/franceo.m3u8
+#EXTINF:-1,L`EQUIPE21
+http://stream4.latvdefrance.com/demo/lequipe.m3u8
+#EXTINF:-1,BMFTV
+http://stream4.latvdefrance.com/demo/bfm.m3u8
